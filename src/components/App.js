@@ -24,7 +24,7 @@ const handleChange = (e)=>{
 
            
             <div>
-              <p>sum:{sum}</p>
+              <p>Sum:{sum}</p>
             </div>
         
     </div>
